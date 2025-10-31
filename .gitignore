@@ -1,0 +1,16 @@
+# Virtual Environment
+myenv/
+.venv/
+venv/
+
+# Byte-code and compiled files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
+.env
+
+# IDE and editor files (e.g., VS Code)
+.vscode/
